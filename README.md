@@ -1,2 +1,2 @@
 # libevent_server
-A simple tcp server demo using libevent
+A simple echo tcp server demo using libevent
